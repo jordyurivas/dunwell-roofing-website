@@ -426,3 +426,9 @@ html{scroll-behavior:smooth}
   .nav-links a.active{color:#E8920A}
   .nav-links a:hover{color:#E8920A}
 }
+
+/* === IMAGE LOADING — smooth placeholder === */
+img{background:#e8e4dc}
+.hi{background:#1a2744}
+.nc img{background:#1a2744}
+.ih img{background:#1a2744}
